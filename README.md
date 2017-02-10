@@ -5,7 +5,7 @@ VMware ESXI Web Control  Panel
 * Install And Config static IP Address From VM
 
 for buy licence, please visit:
-http://rmansouri.id.ir/
+http://rezamansouri.id.ir
 
 
 
