@@ -212,7 +212,7 @@ CREATE TABLE `setting` (
 
 INSERT INTO `setting` (`id`, `key`, `value`) VALUES
 (1, 'title', 'VPS management'),
-(2, 'api_url', 'http://server1.autovm.net/web/index.php/api/default');
+(2, 'api_url', 'http://server1.rezamansouri.id.ir/web/index.php/api/default');
 
 -- --------------------------------------------------------
 
